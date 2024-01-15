@@ -5,7 +5,7 @@ You'll analyze sales data to gain insights into which cities in the U.S. have so
 
 Assignment: [https://github.com/oigwe-frx/pandas-challenge-1/blob/main/module_4_challenge.ipynb](https://github.com/oigwe-frx/athletic_sales_analysis/blob/main/athletic_sales_analysis_starter_code.ipynb)
 
-Google Colab for Assignment: [https://colab.research.google.com/drive/1heBm3OqbSn-OAy9KEgCz8N6PDLBuinTV?usp=sharing](https://colab.research.google.com/drive/1heBm3OqbSn-OAy9KEgCz8N6PDLBuinTV?usp=sharing)
+Google Colab for Assignment: [https://colab.research.google.com/drive/1vVS1112tuM0Y8aZul5W-0eux-mVY3MNl?usp=sharing](https://colab.research.google.com/drive/1vVS1112tuM0Y8aZul5W-0eux-mVY3MNl?usp=sharing)
 
 
 ## Resouces Used:

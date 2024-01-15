@@ -9,6 +9,7 @@ Google Colab for Assignment: [https://colab.research.google.com/drive/1vVS1112tu
 
 
 ## Resouces Used:
+- Sales Product Data. Available: [https://www.kaggle.com/datasets/knightbearr/sales-product-data](https://www.kaggle.com/datasets/knightbearr/sales-product-data)
 - Google Colab: a hosted Jupyter Notebook service (Used in place of VS Code or Jupyter)
 - Pandas Library Documentation: https://pandas.pydata.org/
 - Knowledge gained by completing the MIT-PE Applied Data Science Program
